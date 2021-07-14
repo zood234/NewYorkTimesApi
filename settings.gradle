@@ -1,0 +1,2 @@
+rootProject.name = "NewYorkTimesApi"
+include ':app'
